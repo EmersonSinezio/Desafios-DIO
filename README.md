@@ -20,7 +20,7 @@ Principais temas abordados:
 ### Algumas fontes utilizadas:
 1. https://napratica.org.br/noticias/dicas-para-estudar-melhor-ciencia
 2. https://www.youtube.com/watch?v=F9Io0qPFU0U
-3. https://guiadoestudante.abril.com.br/estudo5-dicas-preciosas-para-aprender-melhor-segundo-uma-cientista/
+3. https://guiadoestudante.abril.com.br/estudo/5-dicas-preciosas-para-aprender-melhor-segundo-uma-cientista/
 ---
 
 ## 🧠 Engenharia de Prompts e “Cicatrizes”
